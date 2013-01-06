@@ -121,7 +121,6 @@
 		4F8DB6F313FDC0F50001DD6C /* GTMOAuth2Authentication.h in Copy Static Library Headers */ = {isa = PBXBuildFile; fileRef = 4F697FA3131C1A4100A5AB6A /* GTMOAuth2Authentication.h */; };
 		4F8DB6F413FDC0F50001DD6C /* GTMOAuth2SignIn.h in Copy Static Library Headers */ = {isa = PBXBuildFile; fileRef = 4F697FA5131C1A4100A5AB6A /* GTMOAuth2SignIn.h */; };
 		4F8DB6F513FDC0F50001DD6C /* GTMOAuth2ViewControllerTouch.h in Copy Static Library Headers */ = {isa = PBXBuildFile; fileRef = 4F697FBB131C1A6800A5AB6A /* GTMOAuth2ViewControllerTouch.h */; };
-		4F8DB6F613FDC0F50001DD6C /* GTMOAuth2WindowController.h in Copy Static Library Headers */ = {isa = PBXBuildFile; fileRef = 4F697FB4131C1A5800A5AB6A /* GTMOAuth2WindowController.h */; };
 		4F8DB6F713FDC0F50001DD6C /* GTMReadMonitorInputStream.h in Copy Static Library Headers */ = {isa = PBXBuildFile; fileRef = 4F8DB61713FDAC160001DD6C /* GTMReadMonitorInputStream.h */; };
 		4F934E671512712100C4EA34 /* GTLBase64.h in Headers */ = {isa = PBXBuildFile; fileRef = 4F934E651512712100C4EA34 /* GTLBase64.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4F934E681512712100C4EA34 /* GTLBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 4F934E661512712100C4EA34 /* GTLBase64.m */; };
@@ -243,7 +242,6 @@
 				4F8DB6F313FDC0F50001DD6C /* GTMOAuth2Authentication.h in Copy Static Library Headers */,
 				4F8DB6F413FDC0F50001DD6C /* GTMOAuth2SignIn.h in Copy Static Library Headers */,
 				4F8DB6F513FDC0F50001DD6C /* GTMOAuth2ViewControllerTouch.h in Copy Static Library Headers */,
-				4F8DB6F613FDC0F50001DD6C /* GTMOAuth2WindowController.h in Copy Static Library Headers */,
 				4F8DB6F713FDC0F50001DD6C /* GTMReadMonitorInputStream.h in Copy Static Library Headers */,
 			);
 			name = "Copy Static Library Headers";
