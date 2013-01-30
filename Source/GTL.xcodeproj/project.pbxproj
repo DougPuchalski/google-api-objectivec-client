@@ -1190,6 +1190,24 @@
 				);
 				PRODUCT_NAME = GTLTouchStaticLib;
 				SDKROOT = iphoneos;
+				WARNING_CFLAGS = (
+					"-Wall",
+					"-Werror",
+					"-Wendif-labels",
+					"-Wnewline-eof",
+					"-Wfloat-equal",
+					"-Wundeclared-selector",
+					"-Wextra",
+					"-Wstrict-overflow",
+					"-Wconversion",
+					"-Wformat=2",
+					"-Wformat-security",
+					"-Wreorder",
+					"-Wsign-promo",
+					"-Wstrict-selector-match",
+					"-Wno-unused-parameter",
+					"-Wno-unknown-pragmas",
+				);
 			};
 			name = Debug;
 		};
@@ -1203,6 +1221,24 @@
 				);
 				PRODUCT_NAME = GTLTouchStaticLib;
 				SDKROOT = iphoneos;
+				WARNING_CFLAGS = (
+					"-Wall",
+					"-Werror",
+					"-Wendif-labels",
+					"-Wnewline-eof",
+					"-Wfloat-equal",
+					"-Wundeclared-selector",
+					"-Wextra",
+					"-Wstrict-overflow",
+					"-Wconversion",
+					"-Wformat=2",
+					"-Wformat-security",
+					"-Wreorder",
+					"-Wsign-promo",
+					"-Wstrict-selector-match",
+					"-Wno-unused-parameter",
+					"-Wno-unknown-pragmas",
+				);
 			};
 			name = Release;
 		};
